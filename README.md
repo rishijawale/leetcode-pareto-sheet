@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
