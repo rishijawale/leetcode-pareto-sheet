@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -62,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
