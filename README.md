@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/3658-gcd-of-odd-and-even-sums) |
