@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0463-island-perimeter) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/rishijawale/leetcode-pareto-sheet/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
